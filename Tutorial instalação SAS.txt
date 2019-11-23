@@ -1,0 +1,33 @@
+obrigatorio ter o node js no computador instalado
+
+abrir o terminal do node  e digitar no prompt de comando
+
+ - cd e nome da pasta ( deve estar dentro da pasta)
+ - usar o comando npm init 
+- aperta enter para as etapas
+ - ira aparecer o arquivo json dentro da pasta
+ - baixar o boostrap
+ - usar o comando npm install bootstrap ( que consta no site na aba download)
+- instalar poper e Jquery
+- usar o comando npm install jquery
+- usar o comando npm install popper.js
+14 - abrir a pata no brackets ou outro editor e ver estruturas
+pasta scsss.(mais facil para editar)
+
+-------------------------------------------
+utilizar o SAS para compilar
+
+ir até o site do SAS
+site SASS:https://sass-lang.com/
+
+
+
+utilizei o comando npm para instalar
+npm install -g sass
+sass --version (verificar versao)
+
+
+depois usar o comando
+sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler (que irao compilar os arquivos css)
+
+tudo que alterar no editor é alterado em tempo real na pasta
