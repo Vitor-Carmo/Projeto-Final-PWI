@@ -3,7 +3,7 @@
 </p>
     
 <h1 align="center">    
-    # 🎮 Site de Jogos  
+     🎮 Site de Jogos  
 </h1>
 
 
