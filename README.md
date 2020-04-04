@@ -52,7 +52,7 @@ Foi proposto criar um site "est√°tico" sobre o tema que o aluno preferisse. Por√
 <h4 align="center">
 <a href="https://github.com/mateusmxd"><img src="imgs/github.png" "/></a> </img>
 Mateus Araujo &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/FocaDesfocada"><img src="imgs/github.png" "/></a> </img>
+<a href="https://github.com/Luccas-Santos"><img src="imgs/github.png" "/></a> </img>
 Luccas Santos &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Vitor-Carmo"><img src="imgs/github.png" "/></a> </img>
 Vitor Carmo &nbsp;&nbsp;&nbsp;
