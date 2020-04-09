@@ -22,7 +22,7 @@ Essas são as tecnologias usadas para solucionar o problema:
     <li><a href="https://getbootstrap.com">Bootstrap</a></li>
     <li><a href="https://nodejs.org/en/">Node js</a></li>
     <li><a href="https://jquery.com">Jquery</a></li>
-    <li><a href="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js">Jquery</a></li>
+    <li><a href="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js">Ajax</a></li>
     <li><a href="https://sass-lang.com/">Sass</a></li>
 </ul>
 
